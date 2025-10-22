@@ -261,16 +261,16 @@ class _LoginScreenState extends State<LoginScreen>
                               icon: Icons.g_mobiledata,
                               onPressed: () {},
                             ),
-                            const SizedBox(width: 16),
-                            _socialLoginButton(
-                              icon: Icons.apple,
-                              onPressed: () {},
-                            ),
-                            const SizedBox(width: 16),
-                            _socialLoginButton(
-                              icon: Icons.facebook,
-                              onPressed: () {},
-                            ),
+                            // const SizedBox(width: 16),
+                            // _socialLoginButton(
+                            //   icon: Icons.apple,
+                            //   onPressed: () {},
+                            // ),
+                            // const SizedBox(width: 16),
+                            // _socialLoginButton(
+                            //   icon: Icons.facebook,
+                            //   onPressed: () {},
+                            // ),
                           ],
                         ),
                         const SizedBox(height: 30),
